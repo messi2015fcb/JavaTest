@@ -37,6 +37,7 @@ public class GuessingGame {
 
 			in.close();
 			System.out.println("yes");
+            System.out.println("new branch test12");
 		}
 	}
 }
